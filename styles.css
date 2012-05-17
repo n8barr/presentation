@@ -1,8 +1,0 @@
-section#html-templating p.jute-githubWatches:after {
-	font: 60px 'RaphaelIcons', Arial, sans-serif;
-	letter-spacing: 0;
-	top: -12px;
-	position: absolute;
-	padding-left: 12px;
-	content: "i";
-}
